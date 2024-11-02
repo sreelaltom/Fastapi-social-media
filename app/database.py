@@ -20,6 +20,7 @@ def get_db():
 
 # import psycopg2
 # from psycopg2.extras import RealDictCursor
+# import time
 
 # while True:
 #     try:
